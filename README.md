@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrehanpatel&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrehanpatel" /> </p>
 
-- 💬 Ask me about **React , Spring Boot ,Java **
+- 💬 Ask me about ** React , Spring Boot ,Java **
 
 
 
